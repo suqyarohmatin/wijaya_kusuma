@@ -17,6 +17,19 @@ features to your application.
 [![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2-app-basic.svg)](https://packagist.org/packages/yiisoft/yii2-app-basic)
 [![build](https://github.com/yiisoft/yii2-app-basic/workflows/build/badge.svg)](https://github.com/yiisoft/yii2-app-basic/actions?query=workflow%3Abuild)
 
+## Documentation
+For more detailed documentation, please refer to the link below:
+
+[View documentation](#) <!-- Ganti `#` dengan URL dokumen yang sebenarnya -->
+
+---
+
+## Team
+- **Programmer**: [@anggiwahyu88](https://github.com/suqyarohmatin)  
+- **Database Designer**: [@DheandraKhairunnisaP](https://github.com/Satriyo62)  
+- **Replication**: [@NadiraaAyuD](https://github.com/rhanafi26)
+
+
 DIRECTORY STRUCTURE
 -------------------
 
