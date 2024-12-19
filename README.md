@@ -25,8 +25,8 @@ For more detailed documentation, please refer to the link below:
 ---
 
 ## Team
-- **Programmer**: [@anggiwahyu88](https://github.com/suqyarohmatin)  
-- **Database Designer**: [@DheandraKhairunnisaP](https://github.com/Satriyo62)  
-- **Replication**: [@NadiraaAyuD](https://github.com/rhanafi26)
+- **Programmer**: [@suqyarohmatin](https://github.com/suqyarohmatin)  
+- **Database Designer**: [@rhanafi26](https://github.com/rhanafi26)  
+- **Replication**: [@Satriyo62](https://github.com/Satriyo62)
 
 
