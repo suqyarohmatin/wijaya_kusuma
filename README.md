@@ -6,7 +6,7 @@
     <br>
 </p>
 
- Adalah sebuah projek pengembangan database management keuangan untuk memudahkan penghitungan keuangan yang lebih akurat dan aman[Yii 2](https://www.yiiframework.com/) 
+ Adalah sebuah projek pengembangan database management keuangan untuk memudahkan penghitungan keuangan yang lebih akurat dan aman(https://www.yiiframework.com/) 
 
 
 
