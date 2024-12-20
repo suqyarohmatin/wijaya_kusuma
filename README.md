@@ -20,7 +20,7 @@ features to your application.
 ## Documentation
 For more detailed documentation, please refer to the link below:
 
-[![Static Badge](<https://img.shields.io/badge/View_Document-1298ff)](./dokumen/Dokumen Awal.pdf>) 
+[![Static Badge](https://img.shields.io/badge/View_Document-1298ff)](<./dokumen/Dokumen Awal.pdf>) 
 
 ## Contributors
 
